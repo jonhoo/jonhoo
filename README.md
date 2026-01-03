@@ -7,3 +7,5 @@ I also make educational Rust videos on [YouTube](https://youtube.com/@jonhoo)
 and co-host [Rustacean Station](https://rustacean-station.org/).
 
 You can find announcements about upcoming streams, talks, etc. on [my Discord server](https://discord.jonhoo.eu/).
+
+If my work has been useful to you, please consider [sponsoring](https://github.com/sponsors/jonhoo).
